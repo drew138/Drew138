@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="left" alt="Drew138 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Drew138&show_icons=true&hide_border=true"/>
+
 <!--
 **Drew138/Drew138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hey there!, Welcome to my Profile :computer: :coffee:
 
 <img align="left" alt="Drew138 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Drew138&show_icons=true&hide_border=true"/>
 

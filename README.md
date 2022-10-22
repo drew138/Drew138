@@ -1,11 +1,17 @@
-# Hey there!, Welcome to my Profile :computer: :coffee:
+# Hi there!, I'm Andres
+<!-- :computer: :coffee: -->
+<img align="left" alt="Drew138 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Drew138&show_icons=true&hide_border=true&theme=tokyonight"/>
 
-<img align="left" alt="Drew138 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Drew138&show_icons=true&hide_border=true"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drew138&hide=Jupyter%20Notebook,css,javascript,html,scss&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drew138&hide=Jupyter%20Notebook,css,javascript,html,scss&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+## Connect with me 📫
+
+<a href="https://www.linkedin.com/in/andres-salazar-galeano/">
+  <img align="left" src="https://raw.githubusercontent.com/Drew138/Drew138/assetslinkedin.svg" alt="Andres | LinkedIn" width="21px"/>
+</a>
 
 <!--
-**Drew138/Drew138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

@@ -8,7 +8,7 @@
 ## Connect with me 📫
 
 <a href="https://www.linkedin.com/in/andres-salazar-galeano/">
-  <img align="left" src="https://raw.githubusercontent.com/Drew138/Drew138/assetslinkedin.svg" alt="Andres | LinkedIn" width="21px"/>
+  <img align="left" src="https://raw.githubusercontent.com/Drew138/Drew138/master/assets/linkedin.svg" alt="Andres | LinkedIn" width="21px"/>
 </a>
 
 <!--

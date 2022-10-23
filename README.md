@@ -10,10 +10,10 @@
 
 ## Connect with me 📫
 
-<a href="https://www.linkedin.com/in/andres-salazar-galeano/">
+<a href="https://www.linkedin.com/in/andres-salazar-galeano/"  target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/Drew138/Drew138/master/assets/linkedin.svg" alt="Andres | LinkedIn" width="21px"/>
 </a>
-<a href="https://www.instagram.com/drew138ss/">
+<a href="https://www.instagram.com/drew138ss/"  target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/Drew138/Drew138/master/assets/instagram.svg" alt="Andres | Instagram" width="21px"/>
 </a>
 <br/>

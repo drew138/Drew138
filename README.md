@@ -5,6 +5,8 @@
 * Backend Development
 * Noevim
 * Go
+* Ansible
+* Terraform
 * Linux
 * Data Structures & Algorithms
 
